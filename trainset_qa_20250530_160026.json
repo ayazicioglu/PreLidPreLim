@@ -1,0 +1,1072 @@
+[
+  {
+    "question": "What was the combined treatment percentage that significantly enhanced phenanthrene biodegradation?",
+    "answer": "60.63%",
+    "type": "factual"
+  },
+  {
+    "question": "How did BC amendment alone affect biodegradation compared to RL and control treatments?",
+    "answer": "BC amendment alone notably inhibited biodegradation by reducing phenanthrene bioavailability, while the combination of BC + RL showed significant enhancement.",
+    "type": "analytical"
+  },
+  {
+    "question": "What were the two fractions of phenanthrene that the treatments transformed from tightly bound to readily available?",
+    "answer": "The RL and BC + RL treatments promoted transformation into rapidly and slowly desorbing fractions (Frapid and Fslow).",
+    "type": "interpretative"
+  },
+  {
+    "question": "What are persistentPAHs in farmland soils that concern due to their toxicity and potential risks?",
+    "answer": "Persistent PAHs, frequently detected in farmland soils, are of major concern due to their documented toxicity, carcinogenicity, and mutagenicity which pose serious threats to human health through bioaccumulation in the food chain.",
+    "type": "factual"
+  },
+  {
+    "question": "Why is efficient remediation strategies necessary for PAH contamination in agricultural soils?",
+    "answer": "Efficient remediation strategies are required to mitigate PAH contamination in agricultural soils, ensuring soil quality, agricultural productivity, and food safety due to their detrimental effects on both ecosystems and public health.",
+    "type": "analytical"
+  },
+  {
+    "question": "How does biochar, a product of biomass pyrolysis, contribute to the remediation process?",
+    "answer": "Biochar, with its porous nature and carbon-rich characteristics, is used as a soil amendment that can improve fertility, immobilize contaminants, modulate nutrient cycling, sequester carbon, and reduce greenhouse gas emissions. However, it may also decrease bioavailability of PAHs to soil microbes, limiting their bioremediation potential.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What study reported the reduction in bioavailable phenanthrene caused by wheat straw-derivated biochar amendment to forest soil?",
+    "answer": "(2023) reported that the bioavailable fraction of phenanthrene was reduced by 38.9-78.3% due to wheat straw-derived biochar amendment.",
+    "type": "factual"
+  },
+  {
+    "question": "How can certain types of biochar be beneficial for soil PAH biodegradation?",
+    "answer": "Certain biochars, especially low-temperature (<500°C) ones, supply growth promoters like suitable habitats and essential nutrients to microorganisms, modifying fundamental soil properties, increasing microbial biomass, diversity, metabolic activities, and altering community composition.",
+    "type": "analytical"
+  },
+  {
+    "question": "According to Kong et al. (2018), what was the effect of adding sawdust and wheat straw biochars on petroleum-polluted soil PAH degradation?",
+    "answer": "They found that specific PAH degraders, such as Sphingomonas and Alcanivorax, were enriched in the soil after adding these biochars, which accelerated microbial degradation of PAHs.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the characteristic of biochar produced at lower pyrolysis temperature?",
+    "answer": "Biochar with limited carbonization degree, underdeveloped porosity, smaller surface area, lower aromaticity/hydrophobicity and higher polarity",
+    "type": "factual"
+  },
+  {
+    "question": "How does low-temperature biochar compare to high-temperature biochar in terms of microbial growth environment?",
+    "answer": "Low-temperature biochar creates a more favorable microenvironment with near-neutral pH, abundant oxygen-containing acidic functional groups and lower recalcitrance, while high-temperature biochar is often alkaline and dominated by refractory aromatic carbon.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What role do surfactants play in enhancing PAHs",
+    "answer": "Surfactants promote desorption from the soil matrix, mediate limited availability in biochar-amended soil due to their solubilization capability and form micelles that enhance PAHs",
+    "type": "analytical"
+  },
+  {
+    "question": "What are the benefits of using biosurfactants for soil biodegradation and remediation?",
+    "answer": "Biosurfactants have relatively low CMC values compared to chemically synthesized ones, promoting the bioavailability of PAHs to microorganisms. They improve biodegradation efficiency by up to 22%, enhance soil properties like structure, porosity, aeration, water permeability, and nutrient availability, and serve as carbon and energy sources for microorganisms, stimulating their growth and metabolism.",
+    "type": "interpretative"
+  },
+  {
+    "question": "How does rhamnolipid affect soil aggregation?",
+    "answer": "Rhamnolipid reduces surface tension, promoting the dispersion and formation of soil aggregates, which stabilizes the structure, increases porosity, improves aeration, and enhances water permeability in soil.",
+    "type": "factual"
+  },
+  {
+    "question": "What are some potential drawbacks of using biosurfactants?",
+    "answer": "Biosurfactants may exhibit inhibitory effects on microbial growth due to their antimicrobial, antibiofilm, and anti-adhesive activities. This can negatively impact the microbial processes involved in degradation.",
+    "type": "factual"
+  },
+  {
+    "question": "What is rhamnolipid and its role in soil remediation mentioned?",
+    "answer": "Rhamnolipid is a type of biosurfactant that has been proposed to enhance PAH biodegradation by indigenous microorganisms. It increases the degradation efficiency for certain pollutants like phenanthrene, fluoranthene, and pyrene and can also improve soil properties.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did rhamnolipid treatment affect the relative abundance of Bacillus in pyrene-contaminated soil?",
+    "answer": "The application of 1400 mg/ kg rhamnolipid led to a decrease from 48% to 2%, indicating a substantial impact on the degradation of PAHs by this bacterial genus.",
+    "type": "factual"
+  },
+  {
+    "question": "What was reported about the effect of adding rhamnolipid to petroleum-contaminated soil according to Akbari et al. (2021)?",
+    "answer": "They observed a dose-dependent shift in microbial community structure, with an increase in population size but a decline in biodiversity. The biodegradation efficiency was hindered by 17% over an 80-day period.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the primary objective of the research mentioned in the text?",
+    "answer": "The study aims to investigate the integrated effects of biochar and biosurfactants on PAH bioavailability, soil microbial communities, and biodegradation, with a focus on understanding their interactions and potential synergistic effects for remediation.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What were the two critical aspects of the research focused on?",
+    "answer": "The study concentrated on alterations in bioavailable phenanthrene fraction in soil, specifically distinguishing between solubilization and immobilization effects of amendments, as well as amendment-induced modifications in soil microbial ecology.",
+    "type": "factual"
+  },
+  {
+    "question": "What type of soil was used in the research?",
+    "answer": "The pristine soil for the study was collected from an uncontaminated agricultural field in Nanjing, Jiangsu Province, China and consisted mainly of sand (36.3%), silt (50.1%), and clay (13.6%).",
+    "type": "factual"
+  },
+  {
+    "question": "What were the PAH levels found in the tested soil before experimentation?",
+    "answer": "The tested soil contained 1354.9 ± 10.2 ug/ kg of US EPA priority PAHs, with a background phenanthrene concentration of 157.8 ± 2.6 ug/kg.",
+    "type": "factual"
+  },
+  {
+    "question": "How was the biochar prepared for the study?",
+    "answer": "Biochar was produced from air-dried wheat straw through pyrolysis at 300°C in a carbonization furnace.",
+    "type": "factual"
+  },
+  {
+    "question": "What information about soil microbial ecology did the research investigate?",
+    "answer": "The study examined changes in total bacterial abundance, enzymatic activities, potential PAH-degrading taxa, specific nidA catabolic gene, and community diversity and structure due to amendment application.",
+    "type": "factual"
+  },
+  {
+    "question": "What was the purity level of the rhamnolipid obtained?",
+    "answer": "The rhamnolipid had a 90% purity.",
+    "type": "factual"
+  },
+  {
+    "question": "Where did the authors obtain the phenanthrene used in their study?",
+    "answer": "Phenanthrene was purchased from Alfa Aesar Chemical Co., Ltd. (Shanghai, China) and AccuStandard Inc. (New Haven, CT, USA).",
+    "type": "factual"
+  },
+  {
+    "question": "What specific mesh size did the authors use to sieve the biochar?",
+    "answer": "The biochar was sieved through a 0.25 mm mesh.",
+    "type": "factual"
+  },
+  {
+    "question": "How were the soil samples contaminated with phenanthrene?",
+    "answer": "Soil samples were artificially contaminated by mixing them thoroughly with a phenanthrene stock solution in acetone, followed by solvent evaporation to achieve a target concentration of 5 mg/kg.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was the measured actual dry soil concentration of the contaminant?",
+    "answer": "The actual measured concentration of the contaminant in the dry soil was 4.96 +/-.32 mg/ kg.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the range of PAH contamination levels in agricultural soils typically represented by the selected concentration?",
+    "answer": "ranging from background concentrations (<0.1 mg/kg) to approximately 8 mg/ kg",
+    "type": "factual"
+  },
+  {
+    "question": "How does the biochar amendment level (in percentage, w/w dry weight) correspond to standard agronomic and remediation doses for soil improvement or contaminated soils?",
+    "answer": "The selected biochar amendment level of 1% represents a moderate yet effective dosage that corresponds to standard application rates of 0.5-5% (5-50 t/ha) for both purposes",
+    "type": "interpretative"
+  },
+  {
+    "question": "What was the rhamnolipid concentration added to the soil in the study?",
+    "answer": "200 mg/ kg dry weight土壤",
+    "type": "factual"
+  },
+  {
+    "question": "How much soil aliquot was transferred into each Erlenmeyer flask for the treatment?",
+    "answer": "120 g",
+    "type": "factual"
+  },
+  {
+    "question": "What moisture content were the treated soils adjusted to in the experiment?",
+    "answer": "30%",
+    "type": "factual"
+  },
+  {
+    "question": "Why weren",
+    "answer": "The native soil",
+    "type": "analytical"
+  },
+  {
+    "question": "What was the temperature used for concentrating the extracts?",
+    "answer": "50°C",
+    "type": "factual"
+  },
+  {
+    "question": "How many grams of anhydrous Na2SO4 were packed in the column from bottom to top?",
+    "answer": "1 g, 0.5 g, 0.5 g, and another 1 g",
+    "type": "interpretative"
+  },
+  {
+    "question": "What was the elution mixture used for the column cleanup?",
+    "answer": "a 12 mL mixture of hexane/dichloromethane (9:1, v/v)",
+    "type": "analytical"
+  },
+  {
+    "question": "Which equipment was used for chromatographic analysis?",
+    "answer": "Dionex UltiMate 3000 HPLC system",
+    "type": "contextual"
+  },
+  {
+    "question": "What method was used to predict the bioavailable phenanthrene in soil?",
+    "answer": "Consecutive Tenax extraction",
+    "type": "factual"
+  },
+  {
+    "question": "Why did adding 200 mg/L NaN3 inhibit microbial activity during the experiment?",
+    "answer": "To measure desorption kinetics that correlate with microbial uptake, asNaN3 inhibits microbial activity.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What were the replacement intervals for Tenax beads in the experiment?",
+    "answer": "Regular intervals of 1, 6, 12, 24, 48, 96, 192, 336, and 600 h",
+    "type": "factual"
+  },
+  {
+    "question": "How were the beads treated after being rinsed with deionized water?",
+    "answer": "Subsequently subjected to three sequential ultrasonic extractions using a hexane/acetone mixture (4:1, v/v) for 10 min each",
+    "type": "factual"
+  },
+  {
+    "question": "What was the final concentration of the combined extracts before HPLC quantification?",
+    "answer": "Concentrated to near dryness under nitrogen purge and reconstituted in 1 mL of methanol containing 200 ng of phenanthrene-d10",
+    "type": "factual"
+  },
+  {
+    "question": "Which two enzymes are used in measuring biochemical transformation processes and metabolic potential for organic substances in soil microbial communities?",
+    "answer": "Polyphenol oxidase (PPO) and dehydrogenase (DHA)",
+    "type": "factual"
+  },
+  {
+    "question": "How was the soil PPO activity measured using the Solid-PPO Activity Assay kit?",
+    "answer": "Airdried soil (0.1 g) was homogenized with 500 uL reaction substrate, incubated for 1 hour to allow formation of purple gallate, then extracted by adding buffer solution and diethyl ether, vortex-mixed, separated at room temperature, and the absorbance of the supernatant measured at 430 nm. The activity was calculated using a formula that includes absorbance (A), volume of extract phase (V), reaction duration (T), and dry soil weight (W).",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the unit of PPO activity measurement in Soil DHA Activity Assay kit?",
+    "answer": "mg/d/g dry soil",
+    "type": "factual"
+  },
+  {
+    "question": "How much fresh soil sample was used in determining DHA activity?",
+    "answer": "0.1 g",
+    "type": "factual"
+  },
+  {
+    "question": "What was added to the tubes after incubation at 37°C for 24 hours?",
+    "answer": "1.2 mL of ethyl acetate and oscillation at 15,000 rpm and 4°C for 10 min",
+    "type": "factual"
+  },
+  {
+    "question": "What factor was used to calculate soil DHA activity in the equation provided?",
+    "answer": "The difference in absorbance value between the test and control tubes (A), incubation duration (T), total reaction volume (V), dry mass of the soil sample (W), divided by 0.01",
+    "type": "analytical"
+  },
+  {
+    "question": "What step was skipped for the control tubes?",
+    "answer": "Adding TTC substrate, as it wasn",
+    "type": "interpretative"
+  },
+  {
+    "question": "Which kit was used to extract genomic DNA from soil sample?",
+    "answer": "FastDNA Spin Kit for Soil (MP Biomedicals)",
+    "type": "contextual"
+  },
+  {
+    "question": "What instrument was used to verify DNA integrity?",
+    "answer": "1% agarose gel electrophoresis",
+    "type": "factual"
+  },
+  {
+    "question": "Which device was employed for quantifying bacterial 16S rRNA gene concentration and purity?",
+    "answer": "NanoDrop 2000 UV-vis spectrophotometer",
+    "type": "factual"
+  },
+  {
+    "question": "What primer pair was used to amplify the hypervariable V4-V5 regions of bacterial 16S rRNA genes?",
+    "answer": "515F (5",
+    "type": "factual"
+  },
+  {
+    "question": "Which PCR thermocycler was used for the amplification process?",
+    "answer": "GeneAmp 9700 PCR thermocycler",
+    "type": "factual"
+  },
+  {
+    "question": "What library preparation kit was used and what company provided the standard protocols?",
+    "answer": "TruSeq DNA Sample Prep Kit (Illumina) by Majorbio Bio-Pharm Technology Co., Ltd.",
+    "type": "analytical"
+  },
+  {
+    "question": "Which tool was used to compute Bray-Curtis distance for bacterial community structure analysis?",
+    "answer": "QIIME 2 (University of California San Diego, San Diego, CA, USA)",
+    "type": "factual"
+  },
+  {
+    "question": "What visualization technique did the researchers employ to present soil bacterial communities and their relationships with phenanthrene removal?",
+    "answer": "Principal coordinate analysis (PCoA) based on weighted UniFrac distance using R vegan package",
+    "type": "analytical"
+  },
+  {
+    "question": "Which gene was targeted for quantification in the functional genes analysis via qPCR, and what were the forward primers used for amplifying it?",
+    "answer": "The bacterial 16S rRNA gene was amplified with forward primer Eub338F and reverse primer Eub518R. The PAH-degrading nidA gene was amplified using forward primer nidAF and reverse primer nidAR.",
+    "type": "factual"
+  },
+  {
+    "question": "What method did the researchers use to construct standard curves for quantification in qPCR?",
+    "answer": " Serial dilutions of recombinant pMD18T plasmids harboring either 16S rRNA gene fragment or the nidA gene fragment were prepared.",
+    "type": "factual"
+  },
+  {
+    "question": "What was the volume of ddH2O used in the qPCR reaction mixture?",
+    "answer": "6 uL",
+    "type": "factual"
+  },
+  {
+    "question": "Which device was used for amplification under thermal cycling conditions?",
+    "answer": "7300 Real-Time PCR system (Applied Biosystems, Foster City, CA, USA)",
+    "type": "factual"
+  },
+  {
+    "question": "What is the equation representing biodegradation kinetics of phenanthrene by indigenous soil microorganisms?",
+    "answer": "P = Pmax * (1 - e^(-kt))",
+    "type": "interpretative"
+  },
+  {
+    "question": "How was the desorption kinetic model for phenanthrene from soil described?",
+    "answer": "St/S0 = Frapid - krapidt + Fslow - kslowt + Fvslow - kvslowt",
+    "type": "analytical"
+  },
+  {
+    "question": "What software was used for statistical analyses in the study?",
+    "answer": "SPSS software (version 20, IBM Corp., Armonk, NY, USA)",
+    "type": "factual"
+  },
+  {
+    "question": "At what significance level were the results determined to be significant?",
+    "answer": "p < 0.05",
+    "type": "factual"
+  },
+  {
+    "question": "What method was used for multiple group comparisons in the study?",
+    "answer": "one-way ANOVA with Tukey",
+    "type": "analytical"
+  },
+  {
+    "question": "Which statistical tests were employed to analyze pairwise comparisons between groups?",
+    "answer": "Student",
+    "type": "analytical"
+  },
+  {
+    "question": "What are the factors that contribute to biochar",
+    "answer": "Biochar",
+    "type": "factual"
+  },
+  {
+    "question": "How does the reduction in Cfree (freely dissolved concentration) of PAHs due to biochar amendment impact soil microbial degradation?",
+    "answer": "A decrease in Cfree leads to decreased PAH dissipation and prolonged persistence in the soil, as degrading microbes can only utilize freely dissolved forms for degradation.",
+    "type": "analytical"
+  },
+  {
+    "question": "What is one specific example cited from Tomczyk et al. (2020) that demonstrates biochar",
+    "answer": "They observed a 22% reduction in the freely dissolved concentration of 16 PAHs when sewage sludge-derived biochar was added to an agricultural soil at a rate of 1%",
+    "type": "interpretative"
+  },
+  {
+    "question": "How does biochar",
+    "answer": "Sorption through strong binding forces like p-p interactions makes the PAHs resistant to desorption, making them physically inaccessible until they are released into soil pore water.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What do the fast and slow desorption fractions of organic compounds from carbonaceous matrices represent according to previous studies?",
+    "answer": "Crucial bioavailable components for microbial utilization",
+    "type": "factual"
+  },
+  {
+    "question": "How was the biodegradation kinetics of phenanthrene by native soil microorganisms measured in Figure 1?",
+    "answer": "Assessed via sequential Tenax extraction over a 45-day cultivation period",
+    "type": "analytical"
+  },
+  {
+    "question": "What are the treatments shown in the figure (Figure 1) and their effects on biodegradation of phenanthrene?",
+    "answer": "Control: soil without any amendment; BC: soil amended with 1% biochar; RL: soil amended with 200 mg/kg rhamnolipid; BC + RL: soil amended with both 1% biochar and 200 mg/kg rhamnolipid",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the desorption amount of phenanthrene at 600 hours for the control treatment?",
+    "answer": "65.0 ± 4.6%",
+    "type": "factual"
+  },
+  {
+    "question": "How does rhamnolipid affect the desorption kinetics of phenanthrene in soils?",
+    "answer": "Rhamnolipid improves the transformation of phenanthrene from very slowly desorbing fractions (Fvslow) bound to rigid and condensed glassy domains within minerals or SOM to readily bioavailable fractions (Frapid and Fslow).",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the first-order parameter for frapid desorption in soil amended with 1% biochar?",
+    "answer": "2.51 ± 0.03",
+    "type": "factual"
+  },
+  {
+    "question": "How did rhamnolipid application affect the maximum abiotic desorption percentage within 600 hours?",
+    "answer": "Rhamnolipid application increased the maximum abiotic desorption percentage (Maxd) along with Frapid and Fslow, but decreased Fvslow as shown in Table 2.",
+    "type": "factual"
+  },
+  {
+    "question": "What was the impact of rhamnolipid on biodegradation rate and removal percentage of phenanthrene in soil?",
+    "answer": "The addition of rhamnolipid led to a significant enhancement, increasing both the biodegradation rate by 126.6% and total removal efficiency by 33.15% as mentioned in Figure 1 and Table 1, which is consistent with previous research.",
+    "type": "analytical"
+  },
+  {
+    "question": "Why did rhamnolipid combined with biochar accelerate the phenanthrene biodegradation rate?",
+    "answer": "The combination of rhamnolipid and biochar facilitated the dissolution and release of biochar-sorbed phenanthrene, resulting in higher desorption amounts for BC + RL treatment compared to BC-only. This made phenanthrene more accessible to indigenous soil microorganisms.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the improvement in biodegradation rate observed when biochar (BC) combined with rhamnolipid (RL) compared to single application of rhamnolipid?",
+    "answer": "A 40.07% enhancement was observed for BC + RL, versus 20.07% for RL",
+    "type": "factual"
+  },
+  {
+    "question": "How did the biodegradation efficiency increase when both biochar and rhamnolipid were applied?",
+    "answer": "It increased by 30.58%, compared to 18.08% for RL alone.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was the most significant phenanthrene biodegradation observed in the soil treatment combination?",
+    "answer": "The soil treated with both biochar and rhamnolipid showed the highest improvement",
+    "type": "interpretative"
+  },
+  {
+    "question": "How did the bacterial abundance change after 28 days of incubation in all treatments?",
+    "answer": "It increased initially, but a decline was observed from day 28 to 45 due to depletion of substrates and nutrients.",
+    "type": "contextual"
+  },
+  {
+    "question": "How did biochar and rhamnolipid amendment affect the soil 16S rRNA gene abundance?",
+    "answer": "Both biochar and rhamnolipid amendments significantly increased the soil 16S rRNA gene abundance, supporting bacterial growth as carbon substrates and energy sources.",
+    "type": "factual"
+  },
+  {
+    "question": "What was a noticeable consequence of the application of biochar or rhamnolipid on the soil?",
+    "answer": "Notable increase in soil C content, especially dissolved organic carbon (DOC), following the amendments",
+    "type": "analytical"
+  },
+  {
+    "question": "How did soil DOC relate to bacterial 16S rRNA gene copy numbers after incubation for 7 days?",
+    "answer": "There was a significant positive correlation between soil DOC and bacterial 16S rRNA gene copy numbers, with correlations ranging from p=0.039 to p=0.048.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What did the application of rhamnolipid alone contribute to in terms of soil nutrients?",
+    "answer": "Rhamnolipid amendment primarily enhanced carbon availability rather than nutrient enrichment, as it didn",
+    "type": "factual"
+  },
+  {
+    "question": "How did biochar and rhamnolipid potentially improve the soil environment for bacteria?",
+    "answer": "They improved soil physicochemical properties such as aeration, water retention, and nutrient transport, creating suitable conditions for bacterial growth",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the effect of low-temperature pyrolysis on the C/N ratio of the feedstock?",
+    "answer": "Low-temperature (300°C) pyrolysis produces biochar with limited recalcitrant aromatic carbon content and a low C/N ratio, as stated in Table S2.",
+    "type": "factual"
+  },
+  {
+    "question": "How does rhamnolipid compare to biochar as an organic substrate for soil bacteria?",
+    "answer": "Rhamnolipid is more readily available and can be easily utilized by soil bacteria directly, while biochar provides sustained carbon release from its labile fraction and supplements essential nutrients (N and P), functioning as a porous shelter that retains the substrates in proximity to microbial colonies.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was observed in terms of bacterial 16S rRNA gene abundance in soil under RL treatment compared to BC treatment during incubation?",
+    "answer": "In the early stages, the bacterial 16S rRNA gene abundance in the soil under the RL (rhamnolipid) treatment was significantly higher than that under the BC (biochar) treatment. However, after 7 days, it was notably lower for the RL treatment compared to the BC treatment.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What was the abundance of the 16S rRNA gene in BC+RL treatment compared to BC or RL treatments during the entire incubation period?",
+    "answer": "The abundance of the 16S rRNA gene in the BC + RL treatment was significantly higher than that in the BC or RL treatments throughout the entire incubation period.",
+    "type": "factual"
+  },
+  {
+    "question": "How does dehydrogenase activity change over time for the control, BC, and RL treatments?",
+    "answer": "The activity of dehydrogenase did not have a consistent pattern across days; it showed variation but no clear trend in increasing from 0 to 60 units/gram soil.",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the role of DHA (dehydrogenase activity) in soil as per reference [98]?",
+    "answer": "DHA serves as a common indicator of active microbial biomass and its metabolic capability for organic matter.",
+    "type": "interpretative"
+  },
+  {
+    "question": "How did DHA activity in treated soil samples change during the incubation period?",
+    "answer": "DHA activity in all treated soil samples showed an increasing trend from Day 28 to Day 45, with BC, RL, and BC + RL treatments demonstrating a more pronounced increase compared to controls.",
+    "type": "factual"
+  },
+  {
+    "question": "Which treatment combinations demonstrated higher DHA activity?",
+    "answer": "The combination of biochar (BC) and rhamnolipid (RL), labeled as BC + RL, showed the highest DHA activity in all treatments.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was the possible reason for not observing a significant correlation between DHA activity and phenanthrene biodegradation?",
+    "answer": "DHA activity may reflect the decomposition of total organic substances rather than specific PAH degradation processes, which could explain why no strong connection was observed.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What factor significantly elevated soil PPO activity?",
+    "answer": "Rhamnolipid application alone",
+    "type": "factual"
+  },
+  {
+    "question": "How did biochar amendment compare to the unamended control in terms of increasing PPO activity?",
+    "answer": "Biochar amendment showed only a slight, non-significant increase compared to the unamended control.",
+    "type": "analytical"
+  },
+  {
+    "question": "What treatment achieved the highest PPO activity and demonstrated synergistic stimulation of degradation potential?",
+    "answer": "The combined treatment (BC + RL)",
+    "type": "factual"
+  },
+  {
+    "question": "What was the correlation between PPO activity and biodegradation of phenanthrene?",
+    "answer": "A significant positive correlation, ranging from r = 0.819 to 0.983 with p values of 0.017-0.048",
+    "type": "interpretative"
+  },
+  {
+    "question": "Why did biochar alone show a decrease in phenanthrene biodegradation despite increasing bacterial abundance?",
+    "answer": "The inhibited phenanthrene bioavailability caused by biochar outweighed its positive effects on microbial activity.",
+    "type": "analytical"
+  },
+  {
+    "question": "Which treatment exhibited the highest diversity index after the initial adaptation phase?",
+    "answer": "BC + RL treatment",
+    "type": "factual"
+  },
+  {
+    "question": "What indicates the lasting positive effects of amendments on soil bacteria once适应期过后?",
+    "answer": "A remarkable recovery and subsequent increase in bacterial alpha-diversity were observed, with all treatments significantly exceeding control levels.",
+    "type": "interpretative"
+  },
+  {
+    "question": "How does biochar compare to rhamnolipid regarding the promotion of bacterial diversity?",
+    "answer": "Biochar has a superior promotion of bacterial alpha-diversity due to its multifunctional roles which include providing physical shelters, essential nutrients for colonization, and sorbing toxic compounds.",
+    "type": "analytical"
+  },
+  {
+    "question": "Why does biochar have a more significant impact than rhamnolipid in enhancing bacterial diversity?",
+    "answer": "Biochar offers unique benefits like physical protection and nutrient provision that are not provided by rhamnolipids, as well as absorbing toxic compounds to support a wider range of bacterial species.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the reason that non-sterilized biochar",
+    "answer": "Pyrolyzed biochar carries inherently low microbial loads, with no unique biochar-associated taxa exceeding a relative abundance of 0.5%, and thermoresistant bacteria already prevalent in native soil.",
+    "type": "factual"
+  },
+  {
+    "question": "What did the 16S rRNA sequencing reveal about BC-amped and control soils?",
+    "answer": "It revealed >90% OTU overlap, indicating a high level of community similarity between the two, with no unique biochar-associated taxa.",
+    "type": "factual"
+  },
+  {
+    "question": "How did rhamnolipid contribute to soil biodegradation of phenanthrene?",
+    "answer": "A more diverse bacterial community caused by rhamnolipid, both alone and combined with biochar, benefited the process.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did the Bray-Curtis dissimilarity change with incubation time for the treatments?",
+    "answer": "The Bray-Curtis distance representing structural differences between amended and control soil bacterial communities decreased with increasing incubation time.",
+    "type": "analytical"
+  },
+  {
+    "question": "Which amendment showed greater influence on bacterial community structure - biochar or rhamnolipid?",
+    "answer": "Biochar, particularly in the forms of BC and BC + RL, resulted in a more substantial impact on soil bacterial communities compared to rhamnolipid alone.",
+    "type": "factual"
+  },
+  {
+    "question": "What was observed based on PCoA analysis for weighted UniFrac distance?",
+    "answer": "The control and RL-treated groups clustered closely together and were distinct from the biochar-amended treatments, indicating similar community structures among BC andBC +RL but separation from rhamnolipid application.",
+    "type": "interpretative"
+  },
+  {
+    "question": "In what way did the bacterial communities change in response to different amendments over time?",
+    "answer": "A gradual homogenization of bacterial community structures occurred across treatments, with biochar- containing amendments showing greater divergence compared to rhamnolipid amendment alone.",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the primary reason for biochar",
+    "answer": "Its sorption properties to alleviate contaminant toxicity stress",
+    "type": "factual"
+  },
+  {
+    "question": "How did rhamnolipid addition affect the bacterial community in terms of PCA analysis?",
+    "answer": "It optimized the community by favoring taxa adapted to PAH degradation, with PC1 explaining 57.9% variance.",
+    "type": "analytical"
+  },
+  {
+    "question": "In Figure 5b, what does the light blue and pink arrows represent?",
+    "answer": "They represent bacteria and the bioavailability and degradability of PAHs, respectively",
+    "type": "interpretative"
+  },
+  {
+    "question": "Which three genera were identified as being closely associated with biodegradation of phenanthrene?",
+    "answer": "Bacillus, Massilia, Sphingomonas",
+    "type": "factual"
+  },
+  {
+    "question": "How did the bacterial communities relate to phenanthrene removal in PCA analysis?",
+    "answer": "Minimal angles were observed between these bacterial communities and phenanthrene removal in the PCA analysis",
+    "type": "interpretative"
+  },
+  {
+    "question": "What was the correlation between total biodegradation efficiency and maximum biodegradation rates of phenanthrene with relative abundances of Bacillus, Massilia, and Sphingomonas?",
+    "answer": "Significant positive correlations were observed (r = 0.885-0.996, p < 0.05)",
+    "type": "analytical"
+  },
+  {
+    "question": "How did the treatments BC, RL, and BC +RL affect the relative abundances of Bacillus, Massilia, and Sphingomonas?",
+    "answer": "The RL and BC+RL treatments enhanced their abundance compared to control, while BC treatment inhibited it",
+    "type": "contextual"
+  },
+  {
+    "question": "What was observed between taxon abundances in soils treated with biochar and rhamnolipid after a 45-day incubation period?",
+    "answer": "Strong positive correlations were seen between taxon abundances and bioavailable phenanthrene fractions assessed via Tenax extraction, specifically the maximum desorption percentage (Maxd) and sum of Frapid and Fslow.",
+    "type": "factual"
+  },
+  {
+    "question": "How did biochar alone affect the bioavailability of phenanthrene to specialized degraders?",
+    "answer": "Biochar alone reduced bioavailable fractions of phenanthrene, hindering the proliferation of these bacterial taxa and reducing their relative abundances.",
+    "type": "analytical"
+  },
+  {
+    "question": "What study mentioned an inverse relationship between biochar amendment levels and phenanthrene-degrading microbial populations in soil?",
+    "answer": "A previous study by Omoni et al. (2020) reported this finding",
+    "type": "interpretative"
+  },
+  {
+    "question": "How do biosurfactants contribute to increased phenanthrene biodegradation?",
+    "answer": "Biosurfactants modify cell surface properties, enhancing bacterial adherence and uptake of hydrophobic pollutants by improving the permeability of cellular membranes. This allows PAH-degrading bacteria to better degrade phenanthrene that has desorbed into soil pore water.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the function of the nidA gene in relation toPAH degradation?",
+    "answer": "The nidA gene encodes for a subunit of the PAH ring-hydroxylating dioxygenase, which initiates aerobic catabolism of PAHs. It has been validated as a reliable biomarker for assessing soil",
+    "type": "factual"
+  },
+  {
+    "question": "What was observed in the initial 28-day active degradation phase regarding the impact of biochar and rhamnolipid on phenanthrene-degrading bacteria populations?",
+    "answer": "A remarkable elevation of nidA gene copies was noticed across all treatments during this period, indicating increased bacterial activity for phenanthrene biodegradation.",
+    "type": "factual"
+  },
+  {
+    "question": "How did the degradation rates change over time in response to biochar and rhamnolipid addition?",
+    "answer": "The degradation rates decreased progressively as the initial 92.6-95.6% removal of phenanthrene occurred during the first 28 days, followed by reduced biodegradation rates.",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the significance of statistically significant differences in results (as shown in Figure 6)?",
+    "answer": "Statistically significant differences indicate that biochar and rhamnolipid treatments had a noticeable impact on soil bacterial populations and their PAH degradation capacity, with BC+RL showing higher levels compared to controls.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What amendment showed no significant impact on the biomass of the catabolic biomarker nidA?",
+    "answer": "The amendment of biochar alone",
+    "type": "factual"
+  },
+  {
+    "question": "How did rhamnolipid, both individually and in combination with biochar, affect the abundance of the PAH-degradative nidA gene during incubation?",
+    "answer": "Rhamnolipid significantly increased the abundance of the gene compared to treatments without it or control.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was a positive correlation observed between in soils treated with biochar and/or rhamnolipid?",
+    "answer": "A significant positive correlation was found between the copy numbers of the nidA degradation gene and the bioavailable phenanthrene fractions (Maxd, Frapid, and Fslow).",
+    "type": "interpretative"
+  },
+  {
+    "question": "What was the significant correlation between the biodegradation rates and percentages of phenanthrene and the copy numbers of the nidA gene?",
+    "answer": "The study found a significant positive correlation (r = 0.807-0.975, p < 0.05) between the increased bioavailability of phenanthrene due to rhamnolipid application and the copy numbers of the nidA gene, indicating enhanced biodegradation in treatments with both.",
+    "type": "factual"
+  },
+  {
+    "question": "How did rhamnolipid and biochar interact to influence PAH-degrading bacterial communities?",
+    "answer": "Rhamnolipid increased phenanthrene bioavailability by supplying labile carbon sources, while biochar likely provided essential nutrients and microbial habitats. The synergistic interactions between the two resulted in a higher abundance of both phenanthrene- degrading bacterial taxa and associated catabolic genes in the BC + RL treatment compared to the RL treatment.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was the conclusion about the combined performance of biochar and rhamnolipid for PAH removal from agricultural soil?",
+    "answer": "The study concluded that their combined application significantly enhanced biodegradation rates and efficiency of phenanthrene compared to single applications, suggesting a synergistic effect in promoting microbial degradation.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What treatments were used to facilitate the conversion of phenanthrene?",
+    "answer": "RL (Randomized Learning) and BC + RL (Biochar with Randomized Learning)",
+    "type": "factual"
+  },
+  {
+    "question": "How did rhamnolipid enhance biodegradation?",
+    "answer": "It increased the abundances of degrading bacterial genera, elevated the presence of the nidA degradation gene, and promoted phenanthrene bioavailability to microbes.",
+    "type": "analytical"
+  },
+  {
+    "question": "What was observed when biochar and rhamnolipid were applied together?",
+    "answer": "They showed superior performance over rhamnolipid alone, leading to increased bacterial 16S rRNA gene copies, higher Shannon diversity, polyphenol oxidase activity, enrichment of potential degraders like Bacillus, Massilia, and Sphingomonas, and the related nidA gene for growth stimulation.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What supplementary materials can be accessed for the article?",
+    "answer": "[116, 117] provide details on PCR amplification and amplicon purification, as well as information on processing high-throughput sequencing data.",
+    "type": "factual"
+  },
+  {
+    "question": "Which figure shows the time course of bacterial 16S rRNA gene abundance in soil under biochar and/or rhamnolipid treatments?",
+    "answer": "Figure S1(a) displays this information",
+    "type": "interpretative"
+  },
+  {
+    "question": "In which figure do you find the plot representing dehydrogenase activities in soil with similar treatments?",
+    "answer": "Figure S2(a) shows that data",
+    "type": "analytical"
+  },
+  {
+    "question": "Which research funding supported the study?",
+    "answer": "The National Natural Science Foundation of China (42177387) and the Jiangsu Government Scholarship for Overseas Studies",
+    "type": "factual"
+  },
+  {
+    "question": "Was an Institutional Review Board statement required for this research?",
+    "answer": "No, as it is mentioned that ",
+    "type": "interpretative"
+  },
+  {
+    "question": "Where can the datasets be obtained upon request?",
+    "answer": "The datasets are available from the corresponding author.",
+    "type": "contextual"
+  },
+  {
+    "question": "What is the focus of the review by Ansari et al. (2023) regarding bioremediation technologies for polycyclic aromatic hydrocarbons (PAHs)?",
+    "answer": "The review discusses mechanisms and future perspectives of bioremediation techniques to remove PAHs from soil using bioremediation technologies.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of the article that explores technologies for achieving carbon neutrality?",
+    "answer": " Technologies and Perspectives for Achieving Carbon Neutrality",
+    "type": "factual"
+  },
+  {
+    "question": "Which study examines the implications of biochar on soil engineering properties?",
+    "answer": "Biochar Implications for the Engineering Properties of Soils: A Review",
+    "type": "factual"
+  },
+  {
+    "question": "What is the effect of exogenous carbonaceous materials, as reported by Ren et al. (2018), on organic pollutant bioavailability and ecological risks?",
+    "answer": "The study found that exogenous carbonaceous materials increase the bioavailability of organic pollutants and their potential ecological risks.",
+    "type": "factual"
+  },
+  {
+    "question": "Which publication discusses the removal of polycyclic aromatic hydrocarbons (PAHs) from soils using biochar application strategies?",
+    "answer": "Biochar Application Strategies for Polycyclic Aromatic Hydrocarbons Removal from Soils",
+    "type": "factual"
+  },
+  {
+    "question": "How does bioavailability of phenanthrene in soil change with the use of biochar?",
+    "answer": "Biochar can enhance the biodegradation of phenanthrene by increasing its availability to microorganisms, as suggested in Zhang et al. (2020) and Zhao et al. (2022). The mechanism involves biochar acting as a biostimulation strategy that improves soil microbial communities",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the role of bacterial community in the degradation process enhanced by biochar, particularly for polycyclic aromatic hydrocarbons (PAHs)?",
+    "answer": "Biochar enhances the growth and activity of specific bacteria that are responsible for PAHs degradation. Zhao et al. (2022) found a shift in bacterial communities with soil planted with ryegrass when biochar was applied, leading to increased expression of degradation genes.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the ecotoxicological concern regarding biochar and its amendment to soils, as mentioned by Godlewska et al. (2021)?",
+    "answer": "The dark side of black gold, referred to in Godlewska et al., suggests that while biochar can have benefits for soil health and contaminants",
+    "type": "factual"
+  },
+  {
+    "question": "How do the properties of biochar affect soil bacterial, fungal, fauna communities, and nutrient cycling processes according to Dai et al. (2021)?",
+    "answer": "Biochar properties such as chemical composition and surface functional groups influence these changes. Properties like pH adjustment, cation exchange capacity, and organic matter content can alter microbial diversity and activity, leading to shifts in soil organisms and nutrient cycling dynamics.",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the title of the review article that discusses the response of microbial communities to biochar-amended soils?",
+    "answer": "Response of microbial communities to biochar-amended soils: A critical review",
+    "type": "factual"
+  },
+  {
+    "question": "Which journal published an insight into the physiochemical properties and DOM (DOM) of biochar under different pyrolysis temperatures and modification conditions?",
+    "answer": "J. Anal. Appl. Pyrol.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the topic of the study that explores the effects of biochar pyrolyzed at low and high temperatures on phenanthrene degradation in soils?",
+    "answer": "Responses of phenanthrene degradation to changes in bioavailability and microbial community structure",
+    "type": "factual"
+  },
+  {
+    "question": "In which year was the article by Bruun et al. published, discussing the influence of fast pyrolysis temperature on biochar labile fraction and short-term carbon loss?",
+    "answer": "2011",
+    "type": "factual"
+  },
+  {
+    "question": "Which journal contains an investigation into nitrogen retention of biochar derived from different feedstocks at varying pyrolysis temperatures by Li et al. in 2018?",
+    "answer": "J. Anal. Appl. Pyrol.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the focus of the study by Gorovtsov et al. (2020)?",
+    "answer": "The mechanisms of biochar interactions with microorganisms in soil are discussed in their research.",
+    "type": "factual"
+  },
+  {
+    "question": "Which authors explore the effects of mixed surfactants on PAHs biaccumulation and crop remediation?",
+    "answer": "Li, Z. H., Wang, W., and Zhu, L. Z. conduct this study as per the reference provided.",
+    "type": "factual"
+  },
+  {
+    "question": "What journal publishes the article by Bolan et al. (2023) on surfactant-enhanced mobilization of persistent organic pollutants?",
+    "answer": "The Journal of Hazardous Materials is where their research was published.",
+    "type": "factual"
+  },
+  {
+    "question": "Which study suggests micelles as potential agents for soil and water decontamination according to Shah et al. (2016)?",
+    "answer": "Shah, A., Shahzad, S., Munir, A., among others, investigate this in their article.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the topic of the paper by Zhang et al. (2023) that deals with remediation using heavily PAHs-contaminated soil from a coking plant?",
+    "answer": "They discuss the use of biochar in this context, specifically for managing PAHs and heavy mineral content.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the title of the study that discusses surfactant-enhanced desorption and biodegradation of polycyclic aromatic hydrocarbons in contaminated soil?",
+    "answer": "Surfactant-Enhanced Desorption and Biodegradation of Polycyclic Aromatic Hydrocarbons in Contaminated Soil",
+    "type": "factual"
+  },
+  {
+    "question": "Which review article covers surfactant-enhanced remediation of oil-contaminated soil and groundwater, published in 2021?",
+    "answer": "Surfactant-Enhanced Remediation of Oil-Contaminated Soil and Groundwater: A Review",
+    "type": "factual"
+  },
+  {
+    "question": "What does the article by Yesankar et al. mention as a potential application for microbial exopolymeric substances and biosurfactants in PAH biodegradation?",
+    "answer": "Bioavailability enhancers for polycyclic aromatic hydrocarbons biodegradation",
+    "type": "interpretative"
+  },
+  {
+    "question": "In what journal was the study by Ogunmokun and Wallach published, discussing surfactant effects on infiltration into hydrophobic porous media?",
+    "answer": "Geoderma",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of a research paper that explores the use of surfactants to enhance bioremediation of DDTs and PAHs in farmland soil, published in 2017?",
+    "answer": "Surfactant-Enhanced Bioremediation of DDTs and PAHs in Contaminated Farmland Soil",
+    "type": "factual"
+  },
+  {
+    "question": "Which authors investigated the use of Bacillus and rhamnolipids to activate soil microbial communities for TPH contaminated soil remediation?",
+    "answer": "Rong, L. G., Zheng, X. H., Oba, B. T., Shen, C. B., Wang, X. X., Wang, H., Luo, Q., Sun, L. N.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of the study that discusses the effects of dispersants and biosurfactants on crude-oil biodegradation and bacterial community succession?",
+    "answer": "Effects of Dispersants and Biosurfactants on Crude-Oil Biodegradation and Bacterial Community Succession",
+    "type": "analytical"
+  },
+  {
+    "question": "Which article explores the application of rhamnolipid-assisted bioelectrochemical system for soil pollution remediation, highlighting its potential as a green approach?",
+    "answer": "Insights into rhamnolipid-assisted bioelectrochemical system for remediating soil pollution: A promising green approach towards the sustainable environment",
+    "type": "interpretative"
+  },
+  {
+    "question": "How many authors contributed to the paper titled ",
+    "answer": "F. Kadiri, A. Ezaouine, M. Blaghen, F. Bennis, and F. Chegdani",
+    "type": "factual"
+  },
+  {
+    "question": "What was the effect of rhamnolipids on phytotoxicity towards diesel oil in a study published by Marecik et al. in 2012?",
+    "answer": "Rhamnolipids increased the phytotoxicity of diesel oil towards four common plant species",
+    "type": "analytical"
+  },
+  {
+    "question": "Which study focuses on the concentration of PAHs in agricultural soils in Poland?",
+    "answer": "The reference [51] by Xu et al., which discusses a comparative analysis of soil PAH concentrations, distribution, source apportionment, and risk assessment in industrial and rural areas in Eastern Europe with a focus on波兰.",
+    "type": "factual"
+  },
+  {
+    "question": "Which bacterium degradation study is mentioned for phenanthrene in soils?",
+    "answer": "The reference [52] by Dean et al. discusses the use of phenanthrenedegrading bacteria co-inoculated with biosurfactant-producing bacteria to degrade phenanthrene in soil.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the effect of biochar and oxalic acid on PAH toxicity stress in soil microbial communities, as per Li et al. (2019)?",
+    "answer": "According to the study by Li et al., biochar and oxalic acid can alleviate the toxicity stress caused by polycyclic aromatic hydrocarbons in soil microbial communities.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is a review article on the use of biochar for improving soil fertility and crop productivity?",
+    "answer": "The reference [56] by Kapoor et al. provides a review discussing the benefits of biochar as a means to improve soil fertility and crop productivity.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the focus of Beesley et al.",
+    "answer": "The review discusses biochars",
+    "type": "factual"
+  },
+  {
+    "question": "Which article provides insights into the mechanisms underlying the rhizodegradation of PAHs by biochar- amended soil?",
+    "answer": "Environ. Int., 2020, Volume 144, Issue 105995",
+    "type": "factual"
+  },
+  {
+    "question": "What is the topic of Laha et al.",
+    "answer": "Surfactant-soil interactions during surfactant-amended remediation for contaminated soils by hydrophobic organic compounds.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of the article that discusses desorption kinetics and interaction effects of soil sorbed PAHs by P. aeruginosa RS1?",
+    "answer": "Biochem. Eng. J.",
+    "type": "factual"
+  },
+  {
+    "question": "In which journal was the comparison of PAH content, potential risk in vegetation, and bare soil near Daqing oil well published?",
+    "answer": "Environ. Sci. Pollut. Res.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the effect of coapplication of biochar and nutrients on microbiocenotic composition studied by Mierzwa- H ersztek et al. in Waste Biomass Valorization?",
+    "answer": "It increased microbiocenotic composition, dehydrogenase activity index, and chemical properties of sandy soil.",
+    "type": "analytical"
+  },
+  {
+    "question": "Which method is used to assign rRNA sequences into the new bacterial taxonomy as mentioned by Wang et al. in their 2007 article?",
+    "answer": "Naive Bayesian classifier",
+    "type": "factual"
+  },
+  {
+    "question": "Which database project provides improved data processing and web-based tools for ribosomal RNA gene analysis, according to Quast et al. (2012)?",
+    "answer": "The SILVA ribosomal RNA gene database project.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of the study that examines combined effects of maize straw biochar and oxalic acid on soil dissipation of polycyclic aromatic hydrocarbons (PAHs) and microbial community structures?",
+    "answer": "Combined effects of maize straw biochar and oxalic acid on the dissipation of polycyclic aromatic hydrocarbons and microbial community structures in soil: A mechanistic study",
+    "type": "factual"
+  },
+  {
+    "question": "Which journal published an article about negative role of biochars in PAHs dissipation in agricultural soil?",
+    "answer": "Ecotox. Environ. Saf.",
+    "type": "factual"
+  },
+  {
+    "question": "Who conducted the study that found Biochar inoculated with Pseudomonas putida can alleviate inhibitory effects on biodegradation pathways in phenanthrene-contaminated soil?",
+    "answer": "Lu, JF; Liu, YX; Zhang, RL; Hu, ZY; Xue, K; Dong, BY",
+    "type": "factual"
+  },
+  {
+    "question": "What is the potential concern with applying biochars to remediate PAHs-contaminated soil according to article by Zhang et al. (2021)?",
+    "answer": "The study suggests caution due to negative role of biochars in dissipation and vegetable uptake of polycyclic aromatic hydrocarbons (PAHs)",
+    "type": "interpretative"
+  },
+  {
+    "question": "Which research mentions that hydrophobic organic compounds show reduced sorption, bioavailability, and ecotoxic effects when added to biochar-amended soils?",
+    "answer": "Sorption, bioavailability and ecotoxic effects of hydrophobic organic compounds in biochar amended soils by Bielska et al. (2018)",
+    "type": "factual"
+  },
+  {
+    "question": "What is the main focus of the study by Ku",
+    "answer": "The persistence of polycyclic aromatic hydrocarbons (PAHs) in biochar-amended soil",
+    "type": "factual"
+  },
+  {
+    "question": "What is the impact of biochar on the bioaccessibility of 14C-phenanthrene in aged soil, as reported by Ogbonnaya et al.?",
+    "answer": "Biochars can improve the bioavailability of 14C-phenanthrene in aged soil",
+    "type": "analytical"
+  },
+  {
+    "question": "What are some potential effects of biochar on the mineralization of phenanthrene sorbed onto multiwalled carbon nanotubes, according to Xia et al.?",
+    "answer": "Biochars can enhance the mineralization process as reported by Xia et al., leading to degradation of phenanthrene",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the title of the study that examines Rhamnolipid-modified biochar",
+    "answer": "Rhamnolipid-Modified Biochar-Enhanced Bioremediation of Crude Oil-Contaminated Soil and Mediated Regulation of Greenhouse Gas Emission in Soil",
+    "type": "factual"
+  },
+  {
+    "question": "Which journal published the article about lipopeptide biosurfactant",
+    "answer": "Chemical Engineering Journal",
+    "type": "factual"
+  },
+  {
+    "question": "What is the focus of L. Giagnoni and G. Renella",
+    "answer": "Components and mechanisms of the effects of biochar on soil microbial communities",
+    "type": "analytical"
+  },
+  {
+    "question": "What is the title of the study that characterizes lignin during oxidative and hydrothermal pre-treatment processes of wheat straw and corn stover?",
+    "answer": "Characterization of lignin during oxidative and hydrothermal pre-treatment processes of wheat straw and corn stover. Bioresour. Technol. 2010, 101, 3175-3181.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the reference for the study that examines the effects of straw or straw-derived gasification biochar applications on soil quality and crop productivity?",
+    "answer": "[CrossRef] [PubMed]: Hansen et al., The effects of straw or straw-derived gasification biochar applications on soil quality and crop productivity: A farm case study. J. Environ. Manag. 2017, 186, 88-95.",
+    "type": "factual"
+  },
+  {
+    "question": "Which journal published the article that discusses the impact of feedstock biopolymer compositions on dissolved black carbon from lignocellulose-based biochar?",
+    "answer": "Sci. Total Environ., Volume 751, 2021, Pages 141491",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of the review article that discusses different soil factors influencing dehydrogenase activity in mine degraded lands?",
+    "answer": "State-of-the-art review: Different soil factors influencing dehydrogenase activity in mine degraded lands",
+    "type": "factual"
+  },
+  {
+    "question": "Which authors conducted exploration of bacterial community-induced polycyclic aromatic hydrocarbons degradation and humus formation during co-composting of cow manure waste combined with contaminated soil?",
+    "answer": "Lu, Q., Jiang, Z. W., Feng, W. X., Yu, C. J., Jiang, F. Z., Huang, J. Y., and Cui, J. Z.",
+    "type": "factual"
+  },
+  {
+    "question": "What is the effect of wheat straw-derived biochar on soil microbial communities under phenanthrene stress as reported in the article by Wang et al.?",
+    "answer": "It enhances soil microbial communities",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the title of the study that investigates the contributions of ryegrass, lignin and rhamnolipid to polycyclic aromatic hydrocarbon dissipation in an arable soil?",
+    "answer": "Contributions of ryegrass, lignin and rhamnolipid to polycyclic aromatic hydrocarbon dissipation in an arable soil",
+    "type": "factual"
+  },
+  {
+    "question": "Which article discusses the co-transformation of HMs-PAHs in rhizosphere soils during rice growth?",
+    "answer": "Co-transformation of HMs-PAHs in rhizosphere soils and adaptive responses of rhizobacteria during whole growth period of rice (Oryza sativa L.)",
+    "type": "factual"
+  },
+  {
+    "question": "Which study explores the impact mechanisms of surfactants on the biodegradation of phenanthrene in soil, focusing on bioavailability and microbial community responses?",
+    "answer": "Impact mechanisms of various surfactants on the biodegradation of phenanthrene in soil: Bioavailability and microbial community responses",
+    "type": "factual"
+  },
+  {
+    "question": "Which paper discusses the mechanisms for rhamnolipids-mediated biodegradation of hydrophobic organic compounds?",
+    "answer": "Sci. Total Environ., 2018, 634, 1-11",
+    "type": "factual"
+  },
+  {
+    "question": "What is the title of the study that examines surfactant addition in diesel oil degradation and its impact on microbes?",
+    "answer": "Surfactant addition in diesel oil degradation - how can it help the microbes? J. Environ. Health Sci. Eng., 2020, 18, 677-686",
+    "type": "factual"
+  },
+  {
+    "question": "Which journal published an article about the isolation and evaluation of PAH-degrading bacteria by R. Darmawan et al?",
+    "answer": "J. Bioremed. Biodeg., 2015, 6, 3",
+    "type": "factual"
+  },
+  {
+    "question": "Who is responsible for any injury caused by the publications?",
+    "answer": "The individual author(s) and contributor(ies), not MDPI nor the editor(s).",
+    "type": "factual"
+  },
+  {
+    "question": "Do the statements, opinions, or data in publications represent the views of MDPI or the editors?",
+    "answer": "No, they are solely those of the individual authors and contributors.",
+    "type": "interpretative"
+  },
+  {
+    "question": "What is the nature of responsibility mentioned for any harm resulting from the content?",
+    "answer": "The editor(s) and MDPI disclaim responsibility. They do not take accountability if there",
+    "type": "analytical"
+  },
+  {
+    "question": "Is it a requirement for authors or contributors to adhere to certain standards when publishing in publications from MDPI?",
+    "answer": "The text does not explicitly mention such requirements, but it implies that authors are responsible for their content",
+    "type": "interpretative"
+  }
+]
