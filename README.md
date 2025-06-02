@@ -2,6 +2,7 @@
 This repo consists of preliminary work steps to develop a large language model (LLM) specialized in polycyclic aromatic hydrocarbon (PAH) bioremediation.
 
 📋 Project Flow
+
 🔄 1. Data Preparation
 📄 PDF Processing: The scientific article is divided into 59 paragraphs using the pdf_spliter.py script
 💾 Data Storage: Segments are structured and saved in JSON format
