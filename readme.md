@@ -4,7 +4,8 @@ This repo consists of preliminary work steps to develop a large language model (
 
 
 📋 Project Flow
-🔄 1. Data Preparation
+    
+    🔄 1. Data Preparation
     
     📄 PDF Processing: The scientific article is divided into 59 paragraphs using the pdf_spliter.py script
     
