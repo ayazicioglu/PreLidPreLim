@@ -1,0 +1,26 @@
+! pip install datasets
+! pip install huggingface_hub
+
+Import libraries and log in to HuggingFace
+
+   from huggingface_hub import login
+   from datasets import Dataset
+   login()
+
+When the code runs, it will be asked for HF token access. Get Access Tokens from Settings > Access Token.
+Create a new token with write access permission.
+
+import pandas as pd
+input = pd.read_csv ("/content/trainset_qa_20250530_160026.csv")
+input
+
+Here, a dataset is created from a pandas dataframe. Instead of the example csv, we should write our own file name. 
+A new dataset is created via HuggingFace and loaded into that dataset from here. The dataset is divided into training and test data.
+
+dataset = Dataset.from_pandas(input)
+dataset = dataset.train_test_split(test_size=0.1)
+
+#Print the dataset
+print(dataset)
+
+dataset.push_to_hub("ayazicioglu/PreLidPreLim")
