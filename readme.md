@@ -62,8 +62,6 @@ This repo consists of preliminary work steps to develop a large language model (
     
     DeepSeek 
     
-    Copilot 
-    
     Mistral 
 
 
